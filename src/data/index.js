@@ -14,6 +14,7 @@ export function getList(name, domain) {
       `${name}说${domain}`,
       `${name}思${domain}`,
       `${name}要${domain}`,
+      `${name}谈${domain}`,
       `${name}漫谈${domain}`,
       `${name}的${domain}之路`,
       `${name}的${domain}小屋`,
@@ -22,6 +23,10 @@ export function getList(name, domain) {
       `${name}的${domain}宝典`,
       `${name}的${domain}小抄`,
       `${name}的${domain}教室`,
+      `${name}的${domain}前端小窝`,
+      `${name}的${domain}后端厨房`,
+      `${name}的${domain}切图方案`,
+      `${name}的${domain}后端秘籍`
     ]
   }
 
@@ -40,6 +45,7 @@ export function getList(name, domain) {
       `进击的${name}`,
       `沉默${name}`,
       `拓跋${name}`,
+      `切图仔${name}`,
       `${name}翻身`,
       `${name}说`,
       `${name}coding`,
